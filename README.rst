@@ -78,7 +78,7 @@ fizzy ``inst`` directory to the location where RC files should live.
     dst: ~/.vimperator/<1>
     only:
       features:
-				- vimperator_dir
+        - vimperator_dir
 
   # vim: set filetype=eruby.yaml :
 
